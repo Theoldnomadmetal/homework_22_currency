@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homework_22_currency</string>
+    <string name="main_tv">Конвертер Валют</string>
+    <string name="desc">Я пытался, но не зашарил как реализовать конвертацию в обе стороны, согласен даже на 1 балл. В математике я нуб(</string>
+</resources>
